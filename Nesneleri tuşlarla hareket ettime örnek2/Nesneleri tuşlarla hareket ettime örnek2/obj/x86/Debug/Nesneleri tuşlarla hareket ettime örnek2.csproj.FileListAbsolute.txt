@@ -1,0 +1,15 @@
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Nesneleri tuşlarla hareket ettime örnek2\Nesneleri tuşlarla hareket ettime örnek2\bin\Debug\Nesneleri tuşlarla hareket ettime örnek2.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Nesneleri tuşlarla hareket ettime örnek2\Nesneleri tuşlarla hareket ettime örnek2\bin\Debug\Nesneleri tuşlarla hareket ettime örnek2.pdb
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Nesneleri tuşlarla hareket ettime örnek2\Nesneleri tuşlarla hareket ettime örnek2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Nesneleri tuşlarla hareket ettime örnek2\Nesneleri tuşlarla hareket ettime örnek2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Nesneleri tuşlarla hareket ettime örnek2\Nesneleri tuşlarla hareket ettime örnek2\obj\x86\Debug\Nesneleri tuşlarla hareket ettime örnek2.csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Nesneleri tuşlarla hareket ettime örnek2\Nesneleri tuşlarla hareket ettime örnek2\obj\x86\Debug\Nesneleri tuşlarla hareket ettime örnek2.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Nesneleri tuşlarla hareket ettime örnek2\Nesneleri tuşlarla hareket ettime örnek2\obj\x86\Debug\Nesneleri tuşlarla hareket ettime örnek2.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Nesneleri tuşlarla hareket ettime örnek2\Nesneleri tuşlarla hareket ettime örnek2\bin\Debug\Nesneleri tuşlarla hareket ettime örnek2.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Nesneleri tuşlarla hareket ettime örnek2\Nesneleri tuşlarla hareket ettime örnek2\bin\Debug\Nesneleri tuşlarla hareket ettime örnek2.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Nesneleri tuşlarla hareket ettime örnek2\Nesneleri tuşlarla hareket ettime örnek2\obj\x86\Debug\Nesneleri tuşlarla hareket ettime örnek2.csprojResolveAssemblyReference.cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Nesneleri tuşlarla hareket ettime örnek2\Nesneleri tuşlarla hareket ettime örnek2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Nesneleri tuşlarla hareket ettime örnek2\Nesneleri tuşlarla hareket ettime örnek2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Nesneleri tuşlarla hareket ettime örnek2\Nesneleri tuşlarla hareket ettime örnek2\obj\x86\Debug\Nesneleri tuşlarla hareket ettime örnek2.csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Nesneleri tuşlarla hareket ettime örnek2\Nesneleri tuşlarla hareket ettime örnek2\obj\x86\Debug\Nesneleri tuşlarla hareket ettime örnek2.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Nesneleri tuşlarla hareket ettime örnek2\Nesneleri tuşlarla hareket ettime örnek2\obj\x86\Debug\Nesneleri tuşlarla hareket ettime örnek2.pdb
